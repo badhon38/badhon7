@@ -1,0 +1,156 @@
+.head-file{
+
+}
+.nav-text li a{
+   
+	    color: gray;
+}
+.head-text h1{
+    font-size: 60px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.nav-text{
+margin-top: 77px;
+}
+.nav-text a span{
+	    padding-left: 21px;
+	 
+}
+.underline{
+    border-bottom: 7px solid #b8b8b8;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.image-file{
+
+}
+
+.image-box{
+
+}
+
+.image-box h1{
+	    margin-top: 50px;
+	    font-family: 'Open Sans', sans-serif;
+}
+.image-box p{
+    margin-top: 36px;
+    font-size: 18px;
+    font-family: 'Red Hat Text', sans-serif;
+	
+}
+.png-box{
+    position: relative;
+}
+
+.pos-one{
+    position: absolute;
+    top: 5%;
+    right: 40%;
+}
+.pos-two{
+position: absolute;
+    top: 13%;
+    left: 24%;
+}
+.p-tag{
+    margin-top: 381px;
+}
+.p-tag p{
+	font-family: 'Red Hat Text', sans-serif;
+}
+.footer-file{
+    padding: 46px;
+    background: red;
+}
+.footer-text{
+
+}
+.footer-text h5{
+    font-size: 18px;
+    
+    text-align: center;
+    color: #ffff;
+}
+
+
+
+/*for mobile */
+@media (min-width: 320px) and (max-width: 500px){
+
+.head-text h1 {
+    font-size: 37px;
+    margin-top: 31px;
+    margin-bottom: 0px;
+    font-family: 'Shadows Into Light', cursive;
+}
+.nav-text {
+    margin-top: 4px;
+}
+.head-text h1 {
+    text-align: center;
+    font-size: 37px;
+    margin-top: 31px;
+    margin-bottom: 0px;
+    font-family: 'Shadows Into Light', cursive;
+}
+.nav-text a span {
+    padding-left: 7px;
+}
+.image-box p {
+    text-align: center;
+    margin-top: 22px;
+    font-size: 15px;
+    font-family: 'Red Hat Text', sans-serif;
+}
+.pos-one {
+    position: absolute;
+    top: 5%;
+    right: 41%;
+    width: 50%;
+}
+.pos-two {
+    position: absolute;
+    top: 6%;
+    left: 28%;
+    width: 65%;
+}
+.p-tag {
+    margin-top: 182px;
+}
+.p-tag p {
+    text-align: center;
+    font-family: 'Red Hat Text', sans-serif;
+}
+.footer-file {
+    padding: 14px;
+    background: red;
+}
+.footer-text h5 {
+    font-size: 11px;
+    text-align: center;
+    color: #ffff;
+}
+.offset-3 {
+    margin-left: 0%;
+}
+}
+/*for tab and other */
+@media (min-width: 500.1px) and (max-width: 768px){
+.submit h5{
+          margin-top: -73px;
+   
+    color: #ffff;
+    font-size: 36px;
+}
+}
+/* for desktop */
+@media (min-width: 768.1px) and (max-width: 1200px){
+
+
+}
