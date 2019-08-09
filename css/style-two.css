@@ -145,19 +145,19 @@ background: transparent;
 .two{
     position: relative;
 }
-.positon-one{
+.positon-one {
     position: absolute;
     top: 58%;
     width: 100%;
-    left: -15%;
+    left: -5%;
     padding: 28px 0px;
     margin: -77px -9px;
 }
 
-.positon-two{
-     position: absolute;
+.positon-two {
+    position: absolute;
     top: 51%;
-    left: -3%;
+    left: 6%;
     padding: 33px 153px;
     margin: -19px 18px;
     width: 100%;
