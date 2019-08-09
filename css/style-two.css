@@ -144,6 +144,7 @@ background: transparent;
 
 .two{
     position: relative;
+	  
 }
 .positon-one {
     position: absolute;
@@ -197,6 +198,10 @@ background: transparent;
 }
 .call-file {
     margin-top: 16px;
+}
+.two {
+    position: relative;
+    margin-top: 20px;
 }
 .btn {
     background: transparent;
